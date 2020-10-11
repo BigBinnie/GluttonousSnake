@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>background1.jpg</file>
+        <file>gameover.jpg</file>
+        <file>apple.png</file>
+        <file>snakebody.png</file>
+    </qresource>
+</RCC>
