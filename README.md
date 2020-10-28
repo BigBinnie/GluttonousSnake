@@ -1,6 +1,6 @@
 # GluttonousSnake
 
-A small qt project, the interface effect is as follows:
+A small qt project, the interface views are as follows:
 
 Welcome Page
 
